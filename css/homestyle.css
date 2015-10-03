@@ -1,0 +1,62 @@
+body{
+  background-image: url("../images/Monocromo.png");
+  background-size: cover;
+}
+
+div.welcome-intro{
+    text-align: center;
+    /*width:70%;*/
+    /*padding-left: 25%;*/
+    padding-top: 8em;
+
+    /* border-style: solid; */
+    /*padding-right: 25%;*/
+    /* background-image: url("../images/seven-mile-bridge-in-florida-united-states-country-hd-photos-for-laptop.jpg"); */
+    color: white;
+}
+div.buttons{
+  position:relative;
+  margin-top:3em;
+  text-align:center;
+}
+section.Newgamesection{
+  padding-left:90%;
+  margin-top: 2em;
+}
+div.help-intro
+{
+  border-radius: 2%;
+  padding-top:4em;
+  border-style: ridge;
+  padding-bottom:3em;
+
+}
+div.question-1 ,
+.question-2,
+.question-3,
+.question-4,
+.question-5,
+.question-6,
+.question-7
+{
+  border-radius: 2%;
+  border-style: ridge;
+  padding-bottom:3em;
+}
+section.answerfeedbacksection{
+
+
+  margin-top: 9em;
+
+}
+
+div.progresssection a{
+  border-style: solid;
+  border-radius:50%;
+  border-color: white;
+
+}
+
+.questions-text{
+  height:5em;
+}
